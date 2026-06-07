@@ -1,6 +1,6 @@
 import pygame
 import numpy as np
-from C_planet import Planet
+from Main.C_planet import Planet
 
 pygame.init()
 window = pygame.display.set_mode((1280,720))
